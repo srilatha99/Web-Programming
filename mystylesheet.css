@@ -1,0 +1,95 @@
+body
+{
+    font-family:sans-serif;
+ background-image: url('bg9.jpg');
+}  
+
+table.t1
+{
+	margin-right: auto;
+    margin-left: auto; ;
+    height:200px;
+    border:0px;
+    width:60%;
+    border-spacing:20px;
+    background-repeat: repeat;
+    text-align:"center";
+}
+
+#t2
+{
+    width:80%;
+    height:80%;
+    margin-left:auto;
+    margin-right:auto;
+    border-spacing:0px;
+}
+
+#mypic
+{
+	  margin-right: auto;
+    margin-left: auto;
+    height:150px;
+    width:150px;
+    display: block;
+    border-radius: 50%;
+}
+
+#name
+{
+	  text-align:center;
+	  color:darkred;
+	  font-size:30px;
+}
+
+#tr1
+{
+	  text-align:center;
+    color :blue;
+    font-size :18px;
+}
+
+.font
+{
+	  font-weight: bold;
+}
+
+#color
+{
+	  color:#000000;
+	  font-size:20px;
+}
+
+#th
+{
+	  color:#800080;
+	  background-color:#00FFFF;
+    margin-left:auto;
+    margin-right:auto;
+}
+  
+
+.td1
+{
+     background-color:#00FF00;
+}
+
+.td2
+{
+	   background-color:#808080;
+}
+
+a:hover
+{
+     background-color:yellow;
+} 
+
+.li
+{
+     color:blue;
+}
+
+#qo
+{
+	  color:#000000;
+} 
